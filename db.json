@@ -2,9 +2,15 @@
   "fruits": [
     {
       "id": "29d4",
-      "name": "wqefwefewfwe",
+      "name": "banana",
       "quantity": 234,
       "price": 23
+    },
+    {
+      "id": "59d0",
+      "name": "wefwf",
+      "quantity": 23,
+      "price": 123
     }
   ]
 }

@@ -7,7 +7,7 @@ import { Fruit, CreateFruit } from './fruit';
 })
 export class FruitService {
 
-  private apiUrl = 'http://localhost:3000/fruits';
+  private apiUrl = 'https://crud-angular-json.onrender.com/fruits';
 
   constructor(private httpClient: HttpClient) { }
 
